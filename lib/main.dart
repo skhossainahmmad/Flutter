@@ -28,12 +28,11 @@ class MyApp extends StatelessWidget {
             color: Colors.blue.shade50,
           child: Center(
             child: Container(
-              width: 100,
+              width: 300,
               height: 100,
               decoration: BoxDecoration(
                 color: Colors.blueGrey,
                 borderRadius: BorderRadius.only(topLeft: Radius.circular(21),bottomRight: Radius.circular(21),)
-
 
               ),
 
